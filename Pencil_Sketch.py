@@ -1,5 +1,10 @@
 # Description : Program to convert Image to Pencil Sketch
-
+'''
+Data Science Intern at Let's Grow More LGMVIP Sept 22
+Beginner Level Task
+Image to Pencil Sketch with Python
+Anish Dhondi
+'''
 #Importing cv2 module
 import cv2
 
