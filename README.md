@@ -15,3 +15,7 @@ Inversion can be used to enhance details.
 Then we can finally create the pencil sketch by mixing the grayscale image with the inverted blurry image. 
 This can be done by dividing the grayscale image by the inverted blurry image. 
 Since images are just arrays, we can easily do this programmatically using the divide function from the cv2 library in Python.
+
+## Next Word Predictor
+
+Using TensorFlow and Keras library train a RNN, to predict the next word.
