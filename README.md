@@ -19,3 +19,8 @@ Since images are just arrays, we can easily do this programmatically using the d
 ## Next Word Predictor
 
 Using TensorFlow and Keras library train a RNN, to predict the next word.
+
+## Develop A Neural Network That Can Read Handwriting
+
+It is the Neural Network Machine Learning Project MNSIT Handwritten Digit Classification Challenge and using TensorFlow and CNN.
+It has very user friendly interface which is ideal for beginners.
