@@ -34,5 +34,7 @@ Music recommender systems can suggest songs to users based on their listening pa
 ## Stock Market Prediction And Forecasting 
 Stock Market Prediction And Forecasting Using Stacked LSTM
 
+## Prediction using Decision Tree Algorithm
+
 ## Exploratory Data Analysis on Dataset - Terrorism
 As a security/defense analyst, try to find out the hot zone of terrorism.
