@@ -27,3 +27,6 @@ It has very user friendly interface which is ideal for beginners.
 
 ## Handwritten equation solver using CNN
 Mathematical equation solver using character and symbol recognition using image processing and CNN. 
+
+##Music Recommendation
+Music recommender systems can suggest songs to users based on their listening patterns.
