@@ -30,3 +30,6 @@ Mathematical equation solver using character and symbol recognition using image 
 
 ## Music Recommendation
 Music recommender systems can suggest songs to users based on their listening patterns.
+
+## Stock Market Prediction And Forecasting 
+Stock Market Prediction And Forecasting Using Stacked LSTM
