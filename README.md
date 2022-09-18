@@ -24,3 +24,6 @@ Using TensorFlow and Keras library train a RNN, to predict the next word.
 
 It is the Neural Network Machine Learning Project MNSIT Handwritten Digit Classification Challenge and using TensorFlow and CNN.
 It has very user friendly interface which is ideal for beginners.
+
+## Handwritten equation solver using CNN
+Mathematical equation solver using character and symbol recognition using image processing and CNN. 
